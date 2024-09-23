@@ -74,6 +74,4 @@ The OTP Verification System has undergone thorough testing to ensure:
 Contributions to this project are welcome! If you have suggestions for enhancements or new features, please fork the repository and submit a pull request.
 
 ## License
-This project is licensed under the MIT License.
-
-providing all necessary information about my  OTP Verification System project while showcasing your skills and professionalism. 
+This project is licensed under the MIT License. The MIT License is a permissive free software license that allows individuals and organizations to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software. It also permits individuals to use the software in proprietary applications. The only requirement is that the original copyright notice and permission notice are included in all copies or substantial portions of the software. This ensures that users are informed of their rights under the license. For more detailed information, please refer to the [LICENSE](LICENSE) file located in the repository.
