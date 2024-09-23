@@ -51,7 +51,7 @@ If the OTP matches, access is granted; otherwise, the user can try again.
 Provide clear steps for installation.
 Ensure you have Python installed on your machine.
 Clone the repository using:
-git clone https://github.com/amitkumar720-dotcom/OTP-Verification-System_Project/blob/main/README.md
+git clone https://github.com/amitkumar720-dotcom/OTP-Verification-System_Project
 Navigate to the project directory:
 cd otp-verification-system
 
